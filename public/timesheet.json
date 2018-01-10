@@ -1,0 +1,27 @@
+{
+    "ziye": {
+        "name":"ziye",
+        "email":"zwang@nexient.com",
+        "profilepic":"https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAYZAAAAJGUxNjc1Y2ZkLTVjZjItNDNlYy04ZjJlLWVmOGZhNzVmY2EyZQ.jpg",
+        "timesheet": {
+            "01-05-2018": {
+                "09:30AM": "orientation, paperwork",
+                "02:00PM": "computer setup, coding practise"
+            },
+            "01-08-2018": {
+                "08:30AM": "research PWA, check on github download pwa project",
+                "01:30PM": "look webpack documentation related with optimization"
+            },
+            "01-09-2018": {
+                "08:30AM": "start coding timesheet app with pwa",
+                "10:30AM": "coding timesheet app and learn new css framework"
+            },
+            "01-10-2018": {
+                "08:40AM": "read pinrest and tinder pwa articles, how they improve performance",
+                "11:00AM": "learn webpack advanced plugin. commonchunckplugin",
+                "01:00PM": "examine nexient bamboohr site, found is devloped by using react, inspect site css and performance",
+                "02:00PM": "continue coding fo timesheet app, it will refactor by using react later.."
+            }
+        }
+    }
+}
